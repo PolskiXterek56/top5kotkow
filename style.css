@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    background-size: 90px 90px;
+    background-image: linear-gradient(90deg,rgba(38,38,38,.5) 1px,transparent 0),linear-gradient(180deg,rgba(38,38,38,.5) 1px,transparent 0);
+    --tw-bg-opacity: 1;
+    background-color: rgb(23 23 23/var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(245 245 245/var(--tw-text-opacity));
+    
+    }
+    
+    html {
+    font-family: sans-serif;
+    text-align: center;
+    }
+    
+    h1 {
+      color: white;
+    }
+    
+    h2 {
+      color: white
+    }
+    
+    #cat1 {
+      width: "500";
+      height: "400";
+      border-radius: 10%;
+    }
+    
+    #cat2 {
+      width: "500";
+      height: "400";
+      border-radius: 10%;
+    }
+    
+    p {
+      font-size: 50px;
+    }
+    
+    #lusia {
+      width: 500;
+      border-radius: 10%;
+    }
+    
+    #kot {
+      width: 500;
+      height: 400;
+      border-radius: 10%;
+    }
+    
+    #maja {
+        width: 500;
+      border-radius: 10%;
+    }
